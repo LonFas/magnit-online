@@ -21,8 +21,9 @@
 * [magnit.ru](https://magnit.ru/)
 * [my.magnit.ru](https://my.magnit.ru/)
 * [apteka.magnit.ru](https://apteka.magnit.ru/)
-* [dostavka.magnit.ru](https://dostavka.magnit.ru/)
-* [cosmetic.magnit.ru/](https://cosmetic.magnit.ru/)
+* [cosmetic.magnit.ru](https://cosmetic.magnit.ru/)
+* [legal.magnit.ru](https://legal.magnit.ru/)
+* [v1.market](https://v1.market/)
 
 ## Немного цифр
 
