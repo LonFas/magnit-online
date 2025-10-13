@@ -4,11 +4,12 @@
 
 ### Стек технологий
 
-- **nuxt 3**
+- **nuxt 3+**
 - **vue 3**
 - **typescript**
 - **postcss**
 - **pinia**
+- **vitest**
 - **jest**
 - **storybook** для визуализации [библиотеки UI-компонентов](https://web-design-system.dev.ya.magnit.ru/).
 
